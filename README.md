@@ -47,8 +47,8 @@ Security architecture in a **banking, compliance-heavy environment** — designi
 ![PAM](https://img.shields.io/badge/PAM-Wallix-8B0000?style=for-the-badge&labelColor=0D1117)
 ![DAM](https://img.shields.io/badge/DAM-Guardium-8B0000?style=for-the-badge&labelColor=0D1117)
 ![NGFW](https://img.shields.io/badge/NGFW-Palo_Alto_·_Forcepoint-8B0000?style=for-the-badge&labelColor=0D1117)
-![ADC](https://img.shields.io/badge/ADC-F5_BIG--IP-8B0000?style=for-the-badge&labelColor=0D1117)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-8B0000?style=for-the-badge&labelColor=0D1117)
+![WAF](https://img.shields.io/badge/ADC-F5_BIG--IP-8B0000?style=for-the-badge&labelColor=0D1117)
+![DLP](https://img.shields.io/badge/MITRE-ATT%26CK-8B0000?style=for-the-badge&labelColor=0D1117)
 
 ## 🚀 Featured work
 
