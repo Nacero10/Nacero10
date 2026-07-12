@@ -54,12 +54,9 @@ Security architecture in a **banking, compliance-heavy environment** — designi
 
 | Project | Stack | Description |
 |---|---|---|
-| **DumpHound** | FastAPI + React/TypeScript, Volatility(Python) | memory forensics Tool that performs volatility pluging against a memory dump (Win/Lin) — Reconstructs an interactive process tree, correlates processes with Bash history, network sockets, and open files, detects suspicious page-cache artifacts using MITRE ATT&CK–mapped rules, and automatically generates the correct Volatility page-cache extraction commands using the file object's InodeAddr (memory address) advanced object queries, attribute filtering, and CSV export/merge for identity reviews |
-
+| **DumpHound** | FastAPI + React/TypeScript, Volatility(Python) | Memory forensics Tool that performs volatility pluging against a memory dump (Win/Lin) — Reconstructs an interactive process tree, correlates processes with Bash history, network sockets, and open files, detects suspicious page-cache artifacts using MITRE ATT&CK–mapped rules, and automatically generates the correct Volatility page-cache extraction commands using the file object's InodeAddr (memory address) advanced object queries, attribute filtering, and CSV export/merge for identity reviews |
 | **SocKit** |   HTML · JS | DFIR triage kit —  a single-file interactive log viewer (regex filtering, CSV) for fast incident analysis | Supported Files: csv,json,txt(web logs)
-
 | **IBM Guardium DAM Engineering** | IBM Guardium · Python | Database activity monitoring at scale — policy design (DML/DDL controls, session rules), sniffer traffic-noise reduction, and collector performance tuning in a PCI-DSS/DORA-regulated environment |
-
 | **Appliance Health-Check Automation** | Python · Paramiko | SSH-based health-check tool for security appliances — Better For monitoring or comapring config files across several appliances |
 
 ## ⚡ Stats
