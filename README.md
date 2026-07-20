@@ -64,7 +64,7 @@ Security architecture in a **banking, compliance-heavy environment** — designi
 - 🎓 **HTB COAE** — Certified Offensive AI Expert (in progress)
 - 🧠 AI × Security — agentic tooling for defensive operations — AI Evasion
 - 🌐 Portfolio site — Hugo + Blowfish on GitHub Pages
-- ⚽ Off duty: football, Apex Legends, photography
+- ⚽ Off duty: football, Apex Legends.
 
 ---
 
